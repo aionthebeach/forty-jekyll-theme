@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Customized Additional Kits
-description: Kits for schools, museums, whale watching tours, film festivals, and aquariums
+title: Team Page
+description: Who made this experience
 image: 
 nav-menu: true
 ---
