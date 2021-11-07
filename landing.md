@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Call to Action
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Take action to reduce noise pollution in the ocean and protect the ocean ecosystems.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
