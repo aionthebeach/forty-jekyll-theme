@@ -2,7 +2,7 @@
 title: Call to Action
 layout: landing
 description: Take action to reduce noise pollution in the ocean and protect the ocean ecosystems. Healthy oceans are critical for biodiversity equilibrium, planetary health and the global climate system.<br /><br />They’re a source of protein for more than a billion people, tourism potential, unique ecosystems and absorbs carbon dioxide. Oceans are vital allies to regulate the climate. <br /><br /> Ocean noise pollution threatens the ocean animals and ecosystems. This unique experience is aligned with the targets of United Nations Sustainable Development Goal 14 to conserve the ocean and sustainably use marine resources. As an individual, as a policymaker or as an organization, you can take action to restore the ocean soundscapes.
-image: assets/images/pic07.jpg
+image: assets/images/humpback-diver-waves.jpeg
 nav-menu: true
 ---
 
