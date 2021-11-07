@@ -1,7 +1,7 @@
 ---
 layout: home
 title: The Film
-landing-title: 'Through the eyes of the humpback whale'
+landing-title: 'Through the Eyes of the Humpback Whale🐋'
 description: null
 image: null
 author: null
