@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Additional Kits
-description: Lorem ipsum dolor est
+description: Kits for schools, ...
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
