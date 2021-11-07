@@ -3,5 +3,9 @@
 
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+    {% if tile.title == "Customized Additional Kits" %}
+	<a href="{{ tile.url | relative_url }}" class="link">{{ tile.title }}</a>
+    {% else %}
+        <a href="" class="link">{{ tile.title }}</a>
+    {% endif %}
 </header>
