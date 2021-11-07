@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: landing
 title: Team Page
 description: Who made this experience
 image: 

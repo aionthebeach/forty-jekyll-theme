@@ -3,9 +3,5 @@
 
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-    {% if page.layout == "landing" %}
-	<a href="{{ tile.url | relative_url }}" class="link">{{ tile.title }}</a>
-    {% else %}
-        <a href="" class="link">{{ tile.title }}</a>
-    {% endif %}
+     <a href="{{ tile.url | relative_url }}" class="link">{{ tile.title }}</a>
 </header>
