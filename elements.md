@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Elements
-image: assets/images/pic01.jpg
+title: The Film
+description: This virtual-reality project transforms you into a majestic humpback whale. Equipped with incredible abilities to use the physical qualities of water to communicate across the seas, you’ll experience the underwater world and witness its fate challenging ocean animals and ecosystems health and survival.
+image: assets/images/humpback-looking-ship.jpeg
 nav-menu: true
 ---
 
