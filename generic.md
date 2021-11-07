@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Additional Kits
-description: Kits for schools, ...
-image: assets/images/pic11.jpg
+title: Customized Additional Kits
+description: Kits for schools, museums, whale watching tours, film festivals, and aquariums
+image: assets/images/humpback-breaching-irl.jpeg
 nav-menu: true
 ---
 
